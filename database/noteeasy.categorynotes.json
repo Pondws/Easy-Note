@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6680be5bf0fe9ec5a7664c82"
+  },
+  "category": "Sport",
+  "customerEmail": "admin@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66823a429c5a57b48a4c4c84"
+  },
+  "category": "Shopping",
+  "customerEmail": "admin@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66833cfe08832f7cb5a30707"
+  },
+  "category": "Personal",
+  "customerEmail": "admin@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66833d1208832f7cb5a3070a"
+  },
+  "category": "Travel",
+  "customerEmail": "admin@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66838753ea33ea8124ca3ece"
+  },
+  "category": "personal",
+  "customerEmail": "test2@gmail.com",
+  "__v": 0
+}]

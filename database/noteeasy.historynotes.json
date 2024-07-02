@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "66833c6c08832f7cb5a306fa"
+  },
+  "noteId": {
+    "$oid": "66833c6c08832f7cb5a306f9"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-01T23:31:56.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-01T23:31:56.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66833d3708832f7cb5a3070e"
+  },
+  "noteId": {
+    "$oid": "66833d3708832f7cb5a3070d"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-01T23:35:19.126Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-01T23:35:19.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66833f58d62bc961692e9f60"
+  },
+  "noteId": {
+    "$oid": "66833f58d62bc961692e9f5f"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-01T23:44:24.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-01T23:44:24.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683871cea33ea8124ca3eb4"
+  },
+  "noteId": {
+    "$oid": "6683871cea33ea8124ca3eb3"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-02T04:50:36.338Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T04:50:36.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66838892ea33ea8124ca3ef0"
+  },
+  "noteId": {
+    "$oid": "66838892ea33ea8124ca3eef"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-02T04:56:50.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T04:56:50.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66838897ea33ea8124ca3ef5"
+  },
+  "noteId": {
+    "$oid": "66838897ea33ea8124ca3ef4"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-02T04:56:55.633Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T04:56:55.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683889eea33ea8124ca3efc"
+  },
+  "noteId": {
+    "$oid": "6683889eea33ea8124ca3efb"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-02T04:57:02.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T04:57:02.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668388a3ea33ea8124ca3f01"
+  },
+  "noteId": {
+    "$oid": "668388a3ea33ea8124ca3f00"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-02T04:57:07.074Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T04:57:07.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66838941e4daff6ecdd52e28"
+  },
+  "noteId": {
+    "$oid": "6683889eea33ea8124ca3efb"
+  },
+  "email": "admin@gmail.com",
+  "action": "delete",
+  "createdAt": {
+    "$date": "2024-07-02T04:59:45.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T04:59:45.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668389c0e30a06cec5f6d1c8"
+  },
+  "noteId": {
+    "$oid": "66838897ea33ea8124ca3ef4"
+  },
+  "email": "admin@gmail.com",
+  "action": "delete",
+  "createdAt": {
+    "$date": "2024-07-02T05:01:52.623Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T05:01:52.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66838ce4e30a06cec5f6d1e8"
+  },
+  "noteId": {
+    "$oid": "66838ce4e30a06cec5f6d1e7"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-02T05:15:16.297Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T05:15:16.297Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66838ce5e30a06cec5f6d1eb"
+  },
+  "noteId": {
+    "$oid": "66838ce5e30a06cec5f6d1ea"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-02T05:15:17.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T05:15:17.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66838cede30a06cec5f6d1f1"
+  },
+  "noteId": {
+    "$oid": "66838cede30a06cec5f6d1f0"
+  },
+  "email": "admin@gmail.com",
+  "action": "create",
+  "createdAt": {
+    "$date": "2024-07-02T05:15:25.467Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-02T05:15:25.467Z"
+  },
+  "__v": 0
+}]

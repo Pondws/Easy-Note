@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "667f63896125e8b6bc89d7ab"
+  },
+  "username": "Pond",
+  "email": "test@mail.com",
+  "password": "1111",
+  "createdAt": {
+    "$date": "2024-06-29T01:29:45.868Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T01:29:45.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667fcd32904432ef7cf011e8"
+  },
+  "username": "Pond",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$CZYJSpD6jqsPCFGAxfm1u.eJTyeXCjtc8me07BW7hOJk.34rJ7jB.",
+  "createdAt": {
+    "$date": "2024-06-29T09:00:34.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T09:00:34.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6680509513ed96b46dcadb99"
+  },
+  "username": "test",
+  "email": "test2@gmail.com",
+  "password": "$2a$10$PJfYVLdWQe2ZR1RhJPcC..wq.UumjPMzaTvj6zhSkG9CboBP3tSL2",
+  "createdAt": {
+    "$date": "2024-06-29T18:21:09.076Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-29T18:21:09.076Z"
+  },
+  "__v": 0
+}]
